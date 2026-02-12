@@ -807,7 +807,7 @@ body {
 }
 
 #location .sm-grid_container {
-  max-width: 1180px
+  max-width: 1180px;
 }
 
 @media (max-width: 767px) {
