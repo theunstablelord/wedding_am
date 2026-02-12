@@ -803,6 +803,7 @@ body {
 
 #location .sm-wrapper_block-gallery img {
   height: 340px;
+  width: 100%;
 }
 
 #location .sm-grid_container {
